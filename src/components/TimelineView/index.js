@@ -27,7 +27,7 @@ const TimelineView = (props) => {
         <HeaderContainer>
           <Heading>
             MY JOURNEY OF <br />
-            <CCBPHeading>CCBP 4.0</CCBPHeading>
+            <CCBPHeading>Clonetab Soft Solutions</CCBPHeading>
           </Heading>
         </HeaderContainer>
         <Chrono

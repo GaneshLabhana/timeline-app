@@ -9,7 +9,7 @@ import {
   CourseTagsList,
   CourseTagItem,
   CourseTag,
-} from "./styledComponents";
+} from "./styledComponets";
 
 const CourseTimelineCard = (props) => {
   const { courseDetails } = props;
